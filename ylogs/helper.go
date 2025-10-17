@@ -1,4 +1,4 @@
-package ylog
+package ylogs
 
 import (
 	js "github.com/bitly/go-simplejson"
